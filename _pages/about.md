@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lectuer/Assistant Professor in Geospatial Data Science
+subtitle: <a href='https://www.gla.ac.uk/schools/ges/staff/meiliuwu/'>Lectuer/Assistant Professor in Geospatial Data Science, School of Geographical and Earth Sciences, University of Glasgow </a>
 
 profile:
   align: right
   image: prof_pic_meiliu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: meiliuwu@glasgow.ac.uk </p>
     <p>Room 521, The Molema Building </p>
     <p>Lilybank Gardens, Hillhead </p>
-    <p><a href='https://www.gla.ac.uk/schools/ges/staff/meiliuwu/'>School of Geographical and Earth Sciences, University of Glasgow</a> </p>
-    <p>Glasgow, Scotland, UK G12 8RZ </p>
-    <p>meiliuwu@glasgow.ac.uk </p>
+    <p>University of Glasgow, Scotland, UK G12 8RZ </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
