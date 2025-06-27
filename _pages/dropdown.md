@@ -1,9 +1,9 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # changed on Jun 27, 2025
 nav_order: 8
-dropdown: true
+dropdown: true # changed on Jun 27, 2025
 children:
   - title: publications
     permalink: /publications/
@@ -11,6 +11,6 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  # - title: blog
+  #   permalink: /blog/ # changed on Jun 27, 2025
 ---

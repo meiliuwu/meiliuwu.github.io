@@ -1,16 +1,17 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: true
-nav_order: 1
+title: lab
+nav: false # changed on Jun 27, 2025
+nav_order: 4
 pagination:
-  enabled: true
+  # enabled: true
+  enabled: false # changed on Jun 27, 2025
   collection: posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
-  sort_reverse: true
+  sort_reverse: false # changed on Jun 27, 2025
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page

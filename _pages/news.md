@@ -4,7 +4,7 @@ title: news
 permalink: /news/
 description: Last news in our lab.
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 {% include news.liquid %}

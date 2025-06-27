@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gla.ac.uk/schools/ges/staff/meiliuwu/'>Lectuer/Assistant Professor in Geospatial Data Science</a>, School of Geographical and Earth Sciences, University of Glasgow 
+subtitle: <a href='https://www.gla.ac.uk/schools/ges/staff/meiliuwu/'>Lectuer/Assistant Professor in Geospatial Data Science</a>, leading the <a href='./people/'>GIFTS Lab</a> (Geospatial Innovations for Future Technology and Sustainability Lab), directing the new MSc program in <a href='https://www.gla.ac.uk/postgraduate/taught/geospatial-data-science-modelling/'>Geospatial Data Science and AI</a> (under developing, starting in 2026 Fall), School of Geographical and Earth Sciences, University of Glasgow 
 
 profile:
-  align: right
+  align: left
   image: prof_pic_meiliu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: meiliuwu@glasgow.ac.uk </p>
-    <p>Room 521, The Molema Building </p>
-    <p>Lilybank Gardens, Hillhead </p>
-    <p>University of Glasgow, Scotland, UK G12 8RZ </p>
+    <p>Email: meiliu.wu@glasgow.ac.uk </p>
+    <p>Room 521, Molema Building </p>
+    <p>University of Glasgow, Glasgow, UK G12 8RZ </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in Geospatial Data Science at the University of Glasgow, starting in August 2024. I hold a Ph.D. in Geography at the University of Wisconsin-Madison (from January 2021 to May 2024). Since then, my research has been exploring innovative applications and development of Geospatial Data Science and Geospatial Artificial Intelligence (GeoAI).
+I am a Lecturer/Assistant Professor in Geospatial Data Science at the University of Glasgow, starting in August 2024. I hold a Ph.D. in Geography at the University of Wisconsin-Madison (from January 2021 to May 2024). Since then, my research has been exploring innovative applications and development of Geospatial Data Science and Geospatial Artificial Intelligence (GeoAI).
 
 My professional journey before academia includes significant industry experience as a Big Data Scientist, where I developed advanced geospatial routing algorithms, bridging the gap between theoretical research and practical implementation. I earned my Master’s degree in GIS/Cartography from UW-Madison, building on dual Bachelor’s degrees in GIS & Remote Sensing from the University of Cincinnati and Sun Yat-sen University (2+2 program).
 
