@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Parties
+description: Meiliu's 1st year survival  🎉
 img: assets/img/6.jpg
 importance: 4
 category: fun

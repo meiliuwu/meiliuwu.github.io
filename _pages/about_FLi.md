@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<a href='https://www.gla.ac.uk/pgrs/fengjiaoli/'>**Fengjiao Li (PhD student)** (link to profile)</a>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of Geospatial Artificial Intelligence (GeoAI), spatial statistics, and machine learning, with a particular focus on **developing advanced Graph Neural Network (GNN) models for analyzing spatial and dynamic population processes**. Drawing on my statistical training, I aim to create interpretable, robust, and scalable methods for understanding how populations move and how diseases spread over space and time.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current doctoral project focuses on embedding spatial structures, population mobility, and temporal dynamics into graph neural networks to support health risk analysis. I work on integrating statistical reasoning with AI-driven models to improve epidemic modeling, health risk prediction, and intervention planning.
+
+By combining insights from graph neural networks, statistics, epidemiology, and geospatial data science, I strive to develop data-driven tools that are not only technically rigorous but also practically useful for public health decision-making.

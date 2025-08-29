@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<a href='https://www.gla.ac.uk/pgrs/yuweicai/'>**Yuwei (Vivi) Cai (PhD student)** (link to profile)</a>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research lies at the intersection of **remote sensing and deep learning**, with a particular focus on developing **super-resolution (SR)** techniques for Earth observation imagery. I am interested in both improving image quality through SR and understanding its impact on downstream geospatial applications such as building footprint extraction and land cover detection.
+ 
+My current doctoral project aims to build **a comprehensive framework for applying SR in remote sensing,** alongside designing **a new evaluation system** that goes beyond traditional image quality metrics to assess how SR influences practical geospatial tasks. This work seeks to bridge the gap between algorithmic advances in SR and their real-world utility, ultimately supporting more accurate and reliable geospatial analysis. 

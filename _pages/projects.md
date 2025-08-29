@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: projects & fun
 permalink: /projects/
 description: A growing collection of cool projects in GIFTS Lab.
 nav: true
