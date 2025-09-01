@@ -1,7 +1,7 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@string{aps = {American Physical Society,}， JAG = {International Journal of Applied Earth Observation and Geoinformation,}}
 
 @article{wu2023mixed,
   title={Mixed land use measurement and mapping with street view images and spatial context-aware prompts via zero-shot multimodal learning},
@@ -19,3 +19,88 @@
   abstract={Traditional overhead imagery techniques for urban land use detection and mapping often lack the precision needed for accurate, fine-grained analysis, particularly in complex environments with multi-functional, multi-story buildings. To bridge the gap, this study introduces a novel approach, utilizing ground-level street view images geo-located at the point level, to provide more concrete, subtle, and informative visual characteristics for urban mixed land use analysis, addressing the two major limitations of overhead imagery: coarse resolution and insufficient visual information. Given that spatial context-aware land-use descriptions are commonly employed to describe urban environments, this study treats mixed land use detection as a Natural Language for Visual Reasoning (NLVR) task, i.e., classifying land use(s) in images based on the similarity of their visual characteristics and local descriptive land use contexts, by integrating street view images (vision) with spatial context-aware land use descriptions (language) through vision-language multimodal learning. The results indicate that our multimodal approach significantly outperforms traditional vision-based methods and can accurately capture the multiple functionalities of the ground features. It benefits from the incorporation of spatial context-aware prompts, whereas the geographic scale of geo-locations matters. Additionally, our approach marks a significant advancement in mixed land use mapping, achieving point-level precision. It allows for the representation of diverse land use types at point locations, offering the flexibility of mapping at various spatial resolutions, including census tracts and zoning districts. This approach is particularly effective in areas with diverse urban functionalities, facilitating a more fine-grained and detailed perspective on mixed land uses in urban settings.},
 }
 
+@inproceedings{wu2022im2city,
+  title={Im2city: image geo-localization via multi-modal learning},
+  author={Wu, Meiliu and Huang, Qunying},
+  booktitle={Proceedings of the 5th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
+  pages={50--61},
+  year={2022},
+  abbr={SIGSPATIAL}, 
+  doi={10.1145/3557918.3565868},
+  url={https://dl.acm.org/doi/abs/10.1145/3557918.3565868},
+  html={https://dl.acm.org/doi/abs/10.1145/3557918.3565868},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3557918.3565868},
+  abstract={This study investigated multi-modal learning as a stand-alone solution to image geo-localization problems. Based on the successful trials on the contrastive language-image pre-training (CLIP) model, we developed GEo-localization Multi-modal (GEM) models, which not only learn the visual features from input images, but also integrate the labels with corresponding geo-location context to generate textual features, which in turn are fused with the visual features for image geo-localization. We demonstrated that simply utilizing the image itself and appropriate contextualized prompts (i.e., mechanisms to integrate labels with geo-location context as textural features) is effective for global image geo-localization, which traditionally requires large amounts of geo-tagged images for image matching. Moreover, due to the integration of natural language, our GEM models are able to learn spatial proximity of geo-contextualized labels (i.e., their spatial closeness), which is often neglected by classification-based geo-localization methods. In particular, the proposed Zero-shot GEM model (i.e., geo-contextualized prompt tuning on CLIP) outperforms the state-of-the-art model - Individual Scene Networks (ISN), obtaining 4.1% and 49.5% accuracy improvements on the two benchmark datasets, IM2GPS3k and Place Plus 2.0 (i.e., 22k street view images across 56 cities worldwide), respectively. In addition, our proposed Linear-probing GEM model (i.e., CLIP's image encoder linearly trained on street view images) outperforms ISN even more significantly, obtaining 16.8% and 71.0% accuracy improvements, respectively. By exploring optimal geographic scales (e.g., city-level vs. country-level), training datasets (street view images vs. random online images), and pre-trained models (e.g., ResNet vs. CLIP for linearly probing), this research sheds light on integrating textural features with visual features for image geo-localization and beyond.},
+
+}
+
+@article{wu2023revealing,
+  title={Revealing racial-ethnic segregation with individual experienced segregation indices based on social media data: A case study in Los Angeles-Long Beach-Anaheim},
+  author={Wu, Meiliu and Liu, Xinyi and Qin, Yuehan and Huang, Qunying},
+  journal={Computers, Environment and Urban Systems},
+  volume={104},
+  pages={102008},
+  year={2023},
+  publisher={Elsevier},
+  abbr={CEUS}, 
+  doi={10.1016/j.compenvurbsys.2023.102008},
+  url={https://www.sciencedirect.com/science/article/pii/S0198971523000716?casa_token=Dw6XaQEARg4AAAAA:EPCem83z-BYShyYvZJhzkgaXmNsT-vj4vtrfz3RWp8MT_Copfx13BQ71lLfORyP52UiK0V3vHUk},
+  html={https://www.sciencedirect.com/science/article/pii/S0198971523000716?casa_token=Dw6XaQEARg4AAAAA:EPCem83z-BYShyYvZJhzkgaXmNsT-vj4vtrfz3RWp8MT_Copfx13BQ71lLfORyP52UiK0V3vHUk},
+  pdf={https://www.researchgate.net/publication/373588596_Revealing_racial-ethnic_segregation_with_individual_experienced_segregation_indices_based_on_social_media_data_A_case_study_in_Los_Angeles-Long_Beach-Anaheim},
+  abstract={While recent studies have started to measure the experienced racial-ethnic segregation across activity space (beyond “residential” segregation), insufficient efforts have been devoted to revealing the experienced segregation levels of the racial-ethnic minorities (e.g., Asian, Hispanic, Native, and Multi-races), mainly due to the lack of a comprehensive probe into various individual-level datasets. This issue leads to an unnoted deficiency in this field – the lack of showing the “directed” interactions between any pair of two groups. To bridge these gaps, this work proposed a unified framework of using social media data to infer both individual's mobility patterns and user profiles (i.e., race-ethnicity and economic status), to include more racial-ethnic minorities for a more comprehensive estimation of individual experienced segregation. With these inferred information, we developed two novel individual experienced segregation indices, i.e., individual experienced exposure index (EEI) to each race-ethnicity and individual experienced diversity index (EDI). Moreover, we integrated these two indices with the spatial impacts among the mobility-based activity locations based on distance-decay functions, which are often neglected by existing studies. Using Los Angeles-Long Beach-Anaheim as the study case, we discovered several novel, important findings. First, while experienced isolation (i.e., mainly having intra-group interaction) persists among all groups, Asian is most diverse in inter-group interaction. Second, individuals who live closer tend to have similar levels of inter-group interaction. Moreover, exposures to both White and Black are negatively correlated with exposure to Hispanic. On top of that, individuals with a higher economic status are likely less interested in inter-group interaction (except for those from Hispanic), along with more exposures to both White and Black, but less exposure to Hispanic.},
+
+}
+
+@article{vongkusolkit2023near,
+  title={Near real-time flood mapping with weakly supervised machine learning},
+  author={Vongkusolkit, Jirapa and Peng, Bo and Wu, Meiliu and Huang, Qunying and Andresen, Christian G},
+  journal={Remote Sensing},
+  volume={15},
+  number={13},
+  pages={3263},
+  year={2023},
+  publisher={MDPI},
+  abbr={Remote Sensing}, 
+  doi={10.3390/rs15133263},
+  url={https://www.mdpi.com/2072-4292/15/13/3263},
+  html={https://www.mdpi.com/2072-4292/15/13/3263},
+  pdf={https://www.mdpi.com/2072-4292/15/13/3263},
+  abstract={Advances in deep learning and computer vision are making significant contributions to flood mapping, particularly when integrated with remotely sensed data. Although existing supervised methods, especially deep convolutional neural networks, have proved to be effective, they require intensive manual labeling of flooded pixels to train a multi-layer deep neural network that learns abstract semantic features of the input data. This research introduces a novel weakly supervised approach for pixel-wise flood mapping by leveraging multi-temporal remote sensing imagery and image processing techniques (e.g., Normalized Difference Water Index and edge detection) to create weakly labeled data. Using these weakly labeled data, a bi-temporal U-Net model is then proposed and trained for flood detection without the need for time-consuming and labor-intensive human annotations. Using floods from Hurricanes Florence and Harvey as case studies, we evaluated the performance of the proposed bi-temporal U-Net model and baseline models, such as decision tree, random forest, gradient boost, and adaptive boosting classifiers. To assess the effectiveness of our approach, we conducted a comprehensive assessment that (1) covered multiple test sites with varying degrees of urbanization, and (2) utilized both bi-temporal (i.e., pre- and post-flood) and uni-temporal (i.e., only post-flood) input. The experimental results showed that the proposed framework of weakly labeled data generation and the bi-temporal U-Net could produce near real-time urban flood maps with consistently high precision, recall, f1 score, IoU score, and overall accuracy compared with baseline machine learning algorithms.},
+
+}
+
+@article{liu2022graph,
+  title={Graph-based representation for identifying individual travel activities with spatiotemporal trajectories and POI data},
+  author={Liu, Xinyi and Wu, Meiliu and Peng, Bo and Huang, Qunying},
+  journal={Scientific Reports},
+  volume={12},
+  number={1},
+  pages={15769},
+  year={2022},
+  publisher={Nature Publishing Group UK London},
+  abbr={Scientific Reports}, 
+  doi={10.1038/s41598-022-19441-9},
+  url={https://www.nature.com/articles/s41598-022-19441-9},
+  html={https://www.nature.com/articles/s41598-022-19441-9},
+  pdf={https://www.nature.com/articles/s41598-022-19441-9.pdf},
+  abstract={Individual daily travel activities (e.g., work, eating) are identified with various machine learning models (e.g., Bayesian Network, Random Forest) for understanding people’s frequent travel purposes. However, labor-intensive engineering work is often required to extract effective features. Additionally, features and models are mostly calibrated for individual trajectories with regular daily travel routines and patterns, and therefore suffer from poor generalizability when applied to new trajectories with more irregular patterns. Meanwhile, most existing models cannot extract features to explicitly represent regular travel activity sequences. Therefore, this paper proposes a graph-based representation of spatiotemporal trajectories and point-of-interest (POI) data for travel activity type identification, defined as Gstp2Vec. Specifically, a weighted directed graph is constructed by connecting regular activity areas (i.e., zones) detected via clustering individual daily travel trajectories as graph nodes, with edges denoting trips between pairs of zones. Statistics of trajectories (e.g., visit frequency, activity duration) and POI distributions (e.g., percentage of restaurants) at each activity zone are encoded as node features. Next, trip frequency, average trip duration, and average trip distance are encoded as edge weights. Then a series of feedforward neural networks are trained to generate low-dimensional embeddings for activity nodes through sampling and aggregating spatiotemporal and POI features from their multihop neighborhoods. Activity type labels collected via travel surveys are used as ground truth for backpropagation. The experiment results with real-world GPS trajectories show that Gstp2Vec significantly reduces feature engineering efforts by automatically learning feature embeddings from raw trajectories with minimal prepossessing efforts. It not only enhances model generalizability to receive higher identification accuracy on test individual trajectories with diverse travel patterns, but also obtains better efficiency and robustness. In particular, our identification of the most common daily travel activities (e.g., Dwelling and Work) for people with diverse travel patterns outperforms state-of-the-art classification models.},
+
+}
+
+@article{wu2022human,
+  title={Human movement patterns of different racial-ethnic and economic groups in US top 50 populated cities: What can social media tell us about isolation?},
+  author={Wu, Meiliu and Huang, Qunying},
+  journal={Annals of GIS},
+  volume={28},
+  number={2},
+  pages={161--183},
+  year={2022},
+  publisher={Taylor \& Francis},
+  abbr={Annals of GIS}, 
+  doi={10.1080/19475683.2022.2026471},
+  url={https://www.tandfonline.com/doi/full/10.1080/19475683.2022.2026471},
+  html={https://www.tandfonline.com/doi/full/10.1080/19475683.2022.2026471},
+  pdf={https://www.tandfonline.com/doi/epdf/10.1080/19475683.2022.2026471?needAccess=true},
+  abstract={Many studies have proven that human movement patterns are strongly impacted by individual socioeconomic and demographic background. While many efforts have been made on exploring the influences of age and gender on movement patterns using social media, this study aims to analyse and compare the movement patterns among different racial-ethnic and economic groups using social media (i.e. geotagged tweets) from the U.S. top 50 populated cities. Results show that there are significant differences in number of activity zones and median travel distance across cities and demographic groups, and that power-laws tend to be captured in both spatial and demographic aspects. Additionally, the analysis of outbound-city travels demonstrates that some cities have slightly stronger interaction with others, and that economically disadvantaged populations and racial-ethnic minorities are more restricted in long distance travels, indicating that their spatial mobility is more limited to the local scale. Lastly, an economically-segregated movement pattern is discovered – upper-class neighbourhoods are mostly visited by the upper-class, while lower-class neighbourhoods are mainly accessed by the lower-class – but some racial-ethnic groups can diversify this segregated pattern in the local scale.},
+
+}
