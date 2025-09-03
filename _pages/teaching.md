@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Programme and courses that I convened & students that I supervised or mentored
+description: Programme and courses that I convene & students that I supervise or mentor
 nav: true
 nav_order: 4
 ---

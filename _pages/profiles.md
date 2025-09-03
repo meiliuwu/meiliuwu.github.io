@@ -40,6 +40,12 @@ profiles:
     more_info: >
 
   - align: left
+    image: prof_pic_tinghan.jpg
+    content: about_THan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
     image: prof_pic_hanyixiong.jpg
     content: about_HXiong.md
     image_circular: false # crops the image to make it circular
