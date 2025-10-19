@@ -8,6 +8,8 @@ related_posts: false
 
 <a href="https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html">Event link</a>
 
+<a href="https://isprs-annals.copernicus.org/articles/X-4-W7-2025/121/2025/isprs-annals-X-4-W7-2025-121-2025.pdf">Download our paper published in ISPRS Annals</a> 
+
 ---
 
 Thrilled to have had the opportunity to present our work "Advancing Mixed Land Use Detection by Transforming Vision-Language Models with Spatial Intelligence" accepted by *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences* (acceptance rate 25%) and to chair the Walkability session at the 20th 3D GeoInfo & 9th Smart Data Smart Cities 2025, Joint International Conference, held in Kashiwa, Japan on 02-05 September 2025. The conference is hosted by the Center for Spatial Information Science (CSIS), the University of Tokyo and the Ministry of Land, Infrastructure, Transport and Tourism (MLIT). 
