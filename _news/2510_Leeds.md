@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meiliu attending workshop "Geospatial Foundation Models: A Collaborative Roadmap" at School of Geography, University of Leeds, 23 Oct, 2025
+title: Meiliu attending workshop "Geospatial Foundation Models - A Collaborative Roadmap" at School of Geography, University of Leeds, 23 Oct, 2025
 date: 2025-Oct-23
 inline: false
 related_posts: false
