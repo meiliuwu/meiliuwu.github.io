@@ -16,6 +16,11 @@ Thrilled to have had the opportunity to present our work "Advancing Mixed Land U
 
 Special thanks to the Local Organization Committee, chaired by Prof. Yoshihide SEKIMOTO! I truly appreciated the warm welcome, the delicious food, and the thought-provoking conversations with such curious and enthusiastic colleagues and students! 
 
+We published a full paper in ISPRS Annals (see below), and please feel free to check it out if of any interest!  
+
+- **Wu M.@**, Huang Q., Gao S., 2025. Advancing Mixed Land Use Detection by Transforming Vision-Language Models with Spatial Intelligence. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (acceptance rate 25%). DOI: 10.5194/isprs-annals-X-4-W7-2025-121-2025 
+
+
 --- 
 
 <div class="row">
