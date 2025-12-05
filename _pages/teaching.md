@@ -13,11 +13,15 @@ nav_order: 4
 
 •	Program Director: designing a new MSc program in ***Geospatial Data Science & AI*** (starting in F26), including courses in GeoAI and Big GeoData Analytics and Visualization; 
 
-•	***GEOG5018 Principles of Cartographic Design & Production***, F24 (In-person; 40 graduates); 
+•	(Planned) ***Introduction to Geospatial AI***, S27 (In-person); 
+•	***GEOG5015 Web and Mobile Mapping***, S26 (In-person; 30 graduates);
+•	***GEOG5018 Principles of Cartographic Design & Production***, F24 (In-person; 40 graduates); F25 (In-person; 30 graduates); 
 
 **Supervisor**
 
-•	Shunyu Yao (incoming PhD student). Towards Ethical GeoAI: Enhancing Fairness, Privacy, and Interpretability from A Data Perspective. 2025/06 – present. 
+•	Zeyu Xiao (incoming PhD student in Jan 2026). Leveraging Spatially Explicit Graphs, Digital Twinning, and BIM to Enhance Perception, Localisation, and Navigation. 
+ 
+•	Shunyu Yao (PhD student). Towards Ethical GeoAI: Enhancing Fairness, Privacy, and Interpretability from A Data Perspective. 2025/10 – present.
 
 •	Fengjiao Li (PhD student). Towards GeoAI-Enhanced Mobility-Based Health Risk Analysis: Embedding Spatial Intelligence into Graph Neural Networks for Dynamic Population Modelling. 2025/05 – present. 
 
