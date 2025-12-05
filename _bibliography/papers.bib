@@ -315,3 +315,76 @@
   abstract={Embedding spatial intelligence into vision-language models (VLMs) has offered a promising avenue to improve geospatial decision-making in complex urban environments. In this work, we propose a novel framework that augments the architecture of Contrastive Language-Image Pretraining (CLIP) with the techniques of spatial-context aware prompt engineering and spatially explicit contrastive learning. By leveraging a diverse set of geospatial imagery (e.g., street view, satellite, and map tile images), paired with contextual geospatial text generated and curated via GPT-4, our approach constructs robust multimodal representations that capture visual, textual, and spatial insights. The proposed model, termed GeospatialCLIP, is specifically evaluated for urban mixed land use detection, a critical task for sustainable urban planning and smart city development. Results demonstrate that GeospatialCLIP consistently outperforms traditional vision-based few-shot models (e.g., ResNet-152, Vision Transformers) and exhibits competitive performance with state-of-the-art models such as GPT-4. Notably, the incorporation of spatial prompts, especially those providing city-specific cues, significantly boosts detection accuracy. Our findings highlight the pivotal role of spatial intelligence in refining VLM performance and provide novel insights into the integration of geospatial reasoning within multimodal learning. Overall, this work establishes a foundation for future spatially explicit AI development and applications, paving the way for more comprehensive and interpretable models in urban analytics and beyond.},
 
 }
+
+@article{zhou2025advancing,
+  title={Advancing smart disaster response by leveraging social sensing and mobile technology},
+  author={Zhou, Sulong and Wu, Meiliu and Ye, Xinyue and Silbernagel, Janet and Hart, David A and Huang, Qunying},
+  journal={Geo-spatial Information Science},
+  pages={1--19},
+  year={2025},
+  publisher={Taylor \& Francis},
+
+  abbr={Geo-spat. inf. sci.}, 
+  doi={10.1080/10095020.2025.2588034},
+  url={https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2588034},
+  html={https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2588034},
+  pdf={https://gla-my.sharepoint.com/:b:/g/personal/meiliu_wu_glasgow_ac_uk/Ea2wCKBbQp5MhnUmzsC14RYBog7OVhy4n3lJXRm1hRt41Q?e=8cxdeg},
+  abstract={The integration of citizen science, volunteered geographic information (VGI), and Web/mobile geographic information systems (GIS) has demonstrated significant potential in enhancing disaster response efforts. However, delivering timely, comprehensive and trustworthy information remains a major challenge, particularly when relying on passive data collection from social media. While researchers have developed specialized platforms for natural hazards and advanced models for data analysis, few studies present a holistic lifecycle from stakeholder-oriented design through development, especially with attention to the design phase. To address this gap, this paper introduces an agile and iterative user-centered framework for designing and developing a participatory mobile GIS application for collecting reliable, first-hand observations. A pilot study conducted during real-world hurricane events demonstrated the application’s ability to operate both in real time and offline, enabling the collection of precise geotagged data, categorized labels, and diverse media formats. The results highlight the potential of this active, stakeholder-centered approach to support intelligent disaster response strategies and complement passive and authoritative data sources. This paper advances the integration of citizen science and mobile GIS by providing a framework that follows user-centered design principles to inform future disaster response applications.},
+
+}
+
+@inproceedings{chen2025leveraging,
+  title={Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation},
+  author={Chen, Siyu and Han, Ting and Fu, Chengzheng and Zhang, Changshe and Wang, Chaolei and Su, Jinhe and Cai, Guorong and Wu, Meiliu},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+
+  abbr={NeurIPS}, 
+  doi={10.48550/arXiv.2506.09881},
+  url={https://openreview.net/forum?id=KWNabnuuct},
+  html={https://openreview.net/forum?id=KWNabnuuct},
+  pdf={https://openreview.net/pdf?id=KWNabnuuct},
+  abstract={Open-Vocabulary semantic segmentation (OVSS) and domain generalization in semantic segmentation (DGSS) highlight a subtle complementarity that motivates Open-Vocabulary Domain-Generalized Semantic Segmentation (OV-DGSS). OV-DGSS aims to generate pixel-level masks for unseen categories while maintaining robustness across unseen domains, a critical capability for real-world scenarios such as autonomous driving in adverse conditions. We introduce Vireo, a novel single-stage framework for OV-DGSS that unifies the strengths of OVSS and DGSS for the first time. Vireo builds upon the frozen Visual Foundation Models (VFMs) and incorporates scene geometry via Depth VFMs to extract domain-invariant structural features. To bridge the gap between visual and textual modalities under domain shift, we propose three key components: (1) GeoText Query, which align geometric features with language cues and progressively refine VFM encoder representations; (2) Coarse Mask Prior Embedding (CMPE) for enhancing gradient flow for faster convergence and stronger textual influence; and (3) the Domain-Open-Vocabulary Vector Embedding Head (DOV-VEH), which fuses refined structural and semantic features for robust prediction. Comprehensive evaluation on these components demonstrates the effectiveness of our designs. Our proposed Vireo achieves the state-of-the-art performance and surpasses existing methods by a large margin in both domain generalization and open-vocabulary recognition, offering a unified and scalable solution for robust visual understanding in diverse and dynamic environments. Code is available at https://github.com/SY-Ch/Vireo.},
+
+}
+
+
+@misc{li_2025_17660772,
+  author       = {Li, Fengjiao and
+                  Wu, Meiliu and
+                  Basiri, Anahid},
+  title        = {Mobility vs. Contiguity: Spatially Explicit Graph
+                   Neural Networks for COVID-19 Forecasting
+                  },
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17660772},
+  url          = {https://doi.org/10.5281/zenodo.17660772},
+
+
+  abbr={SDSS 2025}, 
+  html={https://doi.org/10.5281/zenodo.17660772},
+  pdf={https://zenodo.org/records/17660772},
+  abstract={Assessing how different graph constructions affect spatio-temporal forecasting is essential for avoiding misleading predictions and ineffective interventions across domains such as epidemic control, transportation, and environmental monitoring. Graph neural networks (GNNs) offer a powerful framework for modelling these processes, but the choice of graph representation, whether based on geographic contiguity, transport networks, or mobility flows, remains underexplored. This study evaluates and compares five graph designs for forecasting daily COVID-19 infection rates per 100,000 residents in Glasgow and Edinburgh (2020 to 2023), including contiguity, road distance, mobility, and hybrids that integrate mobility with either contiguity or road distance. Using a 7-day sliding input window to predict the subsequent 7 days, and assessing performance via MAE, RMSE, MAPE, and R^2, we observe city-specific heterogeneity: mobility-informed hybrids achieve the best forecasts in Glasgow but not in Edinburgh. These findings suggest that the value of mobility is context-dependent, shaped by urban form and travel intensity. More broadly, the study points to the potential importance of tailoring graph construction to local conditions, offering methodological insights for epidemic modelling and other spatio-temporal forecasting applications.},
+
+}
+
+
+@INPROCEEDINGS{11243379,
+  author={Huang, Xiaobin and Han, Ting and Lin, Chenlu and Li, Yanxi and Wu, Meiliu and Chen, Yiping},
+  booktitle={IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Large-Scale Pseudo-Label Supervised 3D Segmentor with Image Priors}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1654-1658},
+  keywords={Point cloud compression;Training;Three-dimensional displays;Costs;Accuracy;Annotations;Semantic segmentation;Semantics;Random access memory;Remote sensing;Point Cloud;Semantic Segmentation;Pseudo Label;Deep Learning;Remote Sensing},
+  doi={10.1109/IGARSS55030.2025.11243379},
+  
+  abbr={IGARSS}, 
+  url={https://ieeexplore.ieee.org/document/11243379},
+  html={https://ieeexplore.ieee.org/document/11243379},
+  pdf={https://gla-my.sharepoint.com/:b:/g/personal/meiliu_wu_glasgow_ac_uk/ETzpRNSTXvtPkDVeDjZgyfkBhhOFh_eUvR0Raey-ugW7Zg?e=fbRsmd},
+  abstract={Large-scale point cloud segmentation plays a critical role in the remote sensing community. However, the challenge of high annotation costs has limited the release of datasets and the development of methods. Inspired by multi-modal fusion methods, we observe that semantic priors from images can significantly enhance point cloud understanding. To this end, we propose a Pseudo-Label-Supervised 3D Segmentor, named PLS3D, for large-scale point cloud semantic segmentation. PLS3D consists of two main components: Pseudo-Label Transfer via Projection Matching (PTPM) and a segmentation network supervised by pseudo-labels. We employ PTPM to generate pseudo-labels from remote sensing images and use these pseudo-labels to supervise point cloud semantic segmentation. Moreover, we design a residual attention module (RAM) to capture global distribution information, thereby refining the local geometry. We conduct the experiments on the N3C-California and 2Dinsight3D datasets. PLS3D achieves accuracies of 85.86% and 78.34%, respectively, which are comparable to point cloud annotation supervision methods. The experiments demonstrate the effectiveness and robustness of our PLS3D for large-scale point cloud segmentation without the need for substantial annotation costs.},
+  
+}
