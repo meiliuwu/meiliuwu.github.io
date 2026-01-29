@@ -22,6 +22,18 @@ profiles:
     more_info: >
 
   - align: right
+    image: prof_pic_shunyuyao.jpeg
+    content: about_SYao.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: prof_pic_ayushdabra.jpeg
+    content: about_Ayush.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
     image: prof_pic_zhimenghe.jpeg
     content: about_ZHe.md
     image_circular: false # crops the image to make it circular
@@ -34,8 +46,8 @@ profiles:
     more_info: >
 
   - align: right
-    image: prof_pic_ayushdabra.jpeg
-    content: about_Ayush.md
+    image: prof_pic_yuchenwang.jpg
+    content: about_YWang.md
     image_circular: false # crops the image to make it circular
     more_info: >
 

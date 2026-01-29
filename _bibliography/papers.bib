@@ -351,7 +351,8 @@
 
 @inproceedings{li2025mobility,
   author={Li, Fengjiao and Wu, Meiliu and Basiri, Anahid},
-  title={Mobility vs. Contiguity: Spatially Explicit Graph Neural Networks for COVID-19 Forecasting},
+  title={Mobility vs. Contiguity: Spatially Explicit Graph Neural Networks for COVID-19 Forecasting}, 
+  booktitle={The Sixth Spatial Data Science Symposium (SDSS 2025)},
   year={2025},
   publisher={Zenodo},
   doi={10.5281/zenodo.17660772},
@@ -377,5 +378,54 @@
   html={https://ieeexplore.ieee.org/document/11243379},
   pdf={https://gla-my.sharepoint.com/:b:/g/personal/meiliu_wu_glasgow_ac_uk/ETzpRNSTXvtPkDVeDjZgyfkBhhOFh_eUvR0Raey-ugW7Zg?e=fbRsmd},
   abstract={Large-scale point cloud segmentation plays a critical role in the remote sensing community. However, the challenge of high annotation costs has limited the release of datasets and the development of methods. Inspired by multi-modal fusion methods, we observe that semantic priors from images can significantly enhance point cloud understanding. To this end, we propose a Pseudo-Label-Supervised 3D Segmentor, named PLS3D, for large-scale point cloud semantic segmentation. PLS3D consists of two main components: Pseudo-Label Transfer via Projection Matching (PTPM) and a segmentation network supervised by pseudo-labels. We employ PTPM to generate pseudo-labels from remote sensing images and use these pseudo-labels to supervise point cloud semantic segmentation. Moreover, we design a residual attention module (RAM) to capture global distribution information, thereby refining the local geometry. We conduct the experiments on the N3C-California and 2Dinsight3D datasets. PLS3D achieves accuracies of 85.86% and 78.34%, respectively, which are comparable to point cloud annotation supervision methods. The experiments demonstrate the effectiveness and robustness of our PLS3D for large-scale point cloud segmentation without the need for substantial annotation costs.},
+  
+}
+
+@article{wu2025advancing,
+  title={Advancing vision-language models with spatial-context prompt tuning: a case study in GeoAI-empowered image geo-localization},
+  author={Wu, Meiliu and Huang, Qunying and Gao, Song},
+  journal={Journal of Location Based Services},
+  pages={1--21},
+  year={2025},
+  publisher={Taylor \& Francis},
+
+  abbr={JLBS}, 
+  doi={10.1080/17489725.2025.2599302},
+  url={https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2599302},
+  html={https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2599302},
+  pdf={https://www.tandfonline.com/doi/epdf/10.1080/17489725.2025.2599302?needAccess=true},
+  abstract={Although Vision-Language Models (VLMs) have demonstrated great potential, limited integration of spatial context via textual input has constrained their performance in geospatial analysis, particularly for location-based services (LBS). To this end, we propose Spatial-context Prompt Tuning, tailored to global image geo-localization tasks. Six spatial-context dimensions (i.e., geospatial image types, geo-localization clues, spatial patterns, land use/land cover, urban perception, and urban development) are designed to create Visual Question Answering (VQA) prompts with GPT-4, based on three imagery types (street view images, satellite images, map tiles) sampled from 790 populous cities. Next, we evaluate the efficacy of these dimensions based on a leading open-source VLM – Contrastive Language-Image Pre-training (CLIP). Results demonstrate consistent, task-dependent accuracy improvements in image geo-localization: land-use prompts improve city-level accuracy by 4.5%, and image-type prompts increase country-level accuracy by 6.7% and continent-level accuracy by 3.0%. Our key contributions include: (1) revealing how spatial versus non-spatial context affects prompt-tuned VLM performance, (2) designing reusabGle six dimensions of spatial context that support explainable, context-aware VLMs for geospatial applications, and (3) enhancing geo-localization accuracy across heterogeneous geospatial imagery. This work charts a positive direction for Geospatial Artificial Intelligence (GeoAI)-empowered research, enabling more effective and interpretable VLM applications in geospatial domains.},
+  selected={true},
+}
+
+@inproceedings{han2025towards,
+  title={Towards A New Era of Geo-Foundation Models: Expert-Guided Multimodal Alignment and Geospatial Context Awareness},
+  author={Han, Ting and Chen, Huan and Wang, Chaolei and Ren, Yilan and Wu, Meiliu},
+  booktitle={Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems},
+  pages={454--465},
+  year={2025},
+  
+  abbr={SIGSPATIAL}, 
+  doi={10.1145/3748636.3762756},
+  url={https://dl.acm.org/doi/abs/10.1145/3748636.3762756},
+  html={https://dl.acm.org/doi/abs/10.1145/3748636.3762756},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3748636.3762756},
+  abstract={Foundation Models (FMs) have demonstrated significant potential for geospatial analysis. As geospatial big data (e.g., geo-tagged text and images) continues to grow, FMs have evolved into geospatial foundation models (GeoFMs), the FMs capable of geospatial reasoning. However, two critical tasks remain challenging: (1) how to align various geospatial modalities for model training, and (2) how to enhance FMs' geospatial context awareness. To fill these gaps, this work develops CLIP4Geo, a unified GeoFM that integrates satellite imagery, LiDAR point clouds, geo-tagged points of interest (POIs), and textual descriptions into a shared representation space. Specifically, to empower the model with geospatial intelligence, we design a Geospatial Expert Knowledge System that tailors both textual and visual information and encodes them into shared geospatial embeddings. Furthermore, we propose a novel Geospatial Context Awareness Transformer to guide the cross-attention mechanism, which leverages geospatial context position embedding to effectively capture spatial dependencies across modalities. We also introduce CityVerse, a large-scale, spatially aligned, and multimodal benchmark dataset covering diverse urban regions in the U.S. and China, supporting a range of geospatial downstream tasks (e.g., zero-shot classification, semantic segmentation / localization, and cross-modality retrieval and generation). Extensive experiments demonstrate that CLIP4Geo consistently outperforms state-of-the-art FM baselines, highlighting the importance of expert-guided multimodal alignment and geospatial context embeddings. Our work provides a scalable framework and comprehensive benchmark to facilitate the future development of GeoFMs for various geospatial applications. Code and dataset are available at https://github.com/Ting-Devin-Han/CLIP4Geo.git.},
+  
+}
+
+@inproceedings{chen2025semantic4safety,
+  title={Semantic4Safety: Causal Insights from Zero-shot Street View Imagery Segmentation for Urban Road Safety},
+  author={Chen, Huan and Han, Ting and Chen, Siyu and Guo, Zhihao and Chen, Yiping and Wu, Meiliu},
+  booktitle={Proceedings of the 8th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery},
+  pages={146--156},
+  year={2025},
+  
+  abbr={SIGSPATIAL}, 
+  doi={10.1145/3764912.3770830},
+  url={https://dl.acm.org/doi/abs/10.1145/3764912.3770830},
+  html={https://dl.acm.org/doi/abs/10.1145/3764912.3770830},
+  pdf={https://dl.acm.org/doi/epdf/10.1145/3764912.3770830},
+  abstract={Street-view imagery (SVI) offers a fine-grained lens on traffic risk, yet two fundamental challenges persist: (1) how to construct street-level indicators that capture accident-related features, and (2) how to quantify their causal impacts across different accident types. To address these challenges, we propose Semantic4Safety, a framework that applies zero-shot semantic segmentation to SVIs to derive 11 interpretable streetscape indicators, and integrates road type as contextual information to analyze approximately 30,000 accident records in Austin. Specifically, we train an eXtreme Gradient Boosting (XGBoost) multi-class classifier and use Shapley Additive Explanations (SHAP) to interpret both global and local feature contributions, and then apply Generalized Propensity Score (GPS) weighting and Average Treatment Effect (ATE) estimation to control confounding and quantify causal effects. Results uncover heterogeneous, accident-type-specific causal patterns: features capturing scene complexity, exposure, and roadway geometry dominate predictive power; larger drivable area and emergency space reduce risk, whereas excessive visual openness can increase it. By bridging predictive modeling with causal inference, Semantic4Safety supports targeted interventions and high-risk corridor diagnosis, offering a scalable, data-informed tool for urban road safety planning.},
   
 }
