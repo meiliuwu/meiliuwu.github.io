@@ -1,12 +1,26 @@
 ---
 layout: page
 title: AI meets Glasgow's Trees
-description: supported by GALLANT Innovation Fund 
-img: assets/img/3.jpg 
+description: supported by GALLANT Innovation Fund
+img: assets/img/projects/gotrees/2026-group-meeting.jpeg
 importance: 2
 category: work
 related_publications: false
 ---
+
+## Collaboration with HK PolyU · 27 July 2026
+
+Our conversations with **Prof Charles Wong’s research team at The Hong Kong Polytechnic University (HK PolyU)** during the **ISPRS Congress 2026** revealed shared research interests in urban forestry and vegetation studies.
+
+On **27 July 2026**, we met on Microsoft Teams to begin a collaboration exploring **3D LiDAR and remote sensing techniques for urban forestry and vegetation studies**. We look forward to developing these ideas together through **AI meets Glasgow’s Trees**.
+
+{% include figure.liquid path="assets/img/projects/gotrees/2026-07-27-polyu-teams.png" alt="Microsoft Teams collaboration meeting between the Glasgow group and Prof Charles Wong’s research team at HK PolyU" caption="Our Teams meeting with Prof Charles Wong’s HK PolyU research team on 27 July 2026, following our discussions at the ISPRS Congress." class="img-fluid rounded z-depth-1" zoomable=true %}
+
+## Our project team
+
+A group meeting for **AI meets Glasgow’s Trees**, bringing the team together in person and online to discuss our work on urban trees and ecosystem services.
+
+{% include figure.liquid path="assets/img/projects/gotrees/2026-group-meeting.jpeg" alt="The AI meets Glasgow’s Trees project team meeting in person and online" caption="Our project team, together in person and online." class="img-fluid rounded z-depth-1" %}
 
 **AI Meets Glasgow’s Trees: Metrics Prediction, 3D Mapping, and Socio-Ecosystem Impact Simulations**
 
@@ -20,8 +34,5 @@ The project will comprise two steps: (1) AI-powered predicting tree metrics, and
     </div>
 </div>
 <div class="caption">
-    An exmaple of using Digital Twin and AI techniques for urban forestry management
+    An example of using Digital Twin and AI techniques for urban forestry management
 </div>
-
-
-

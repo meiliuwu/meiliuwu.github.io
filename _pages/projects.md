@@ -2,7 +2,7 @@
 layout: page
 title: projects & fun
 permalink: /projects/
-description: A growing collection of cool projects in GIFTS Lab.
+description: Research projects and time together in GIFTS Lab.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

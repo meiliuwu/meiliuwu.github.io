@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-description: Last news in our lab.
+description: Research, events and life in GIFTS Lab.
 nav: true
 nav_order: 6
 ---

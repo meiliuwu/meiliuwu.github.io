@@ -1,5 +1,5 @@
-**Hanyi Xiong (Exchange Undergraduate student)**
+### Hanyi Xiong
 
-I am currently a year three undergraduate student majoring in Applied AI from the University of Hong Kong. My research is positioned at the intersection of GeoAI and multimodal learning, integrating diverse geospatial modalities (e.g., text, imagery, and geographic coordinates) to extract richer and more holistic geospatial knowledge. My research explores **how generative AI and contrastive learning can be developed to align multiple perspectives—ranging from street-view to overhead-view imagery—to support spatial understanding and geolocalization tasks**. A central theory behind my work is to utilize geo-location as a semantic bridge to fuse diverse geospatial modalities, enabling robust geospatial representation learning. 
+**Former visiting undergraduate · University of Hong Kong · February–September 2025**
 
-My long-term research goal is to develop GeoAI-empowered multimodal foundation models for urban analytics and environmental applications, ultimately fostering geospatial AI systems that are accurate, generalizable, and socially impactful. 
+Hanyi’s project explored **enhancing image geo-localisation via GeoAI-empowered foundation models**, connecting multimodal learning with spatial understanding.

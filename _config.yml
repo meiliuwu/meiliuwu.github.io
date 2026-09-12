@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Meiliu
-middle_name: 
+middle_name:
 last_name: Wu
 email: meiliu.wu@glasgow.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -167,13 +167,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+external_sources: [] # No sample third-party blog imports during rebuilds.
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -228,6 +222,16 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - scripts/
+  - site/
+  - dist/
+  - docs/
+  - assets/jupyter/
+  - Preview Website.command
+  - EDITING.md
+  - .openai/
+  - _config.local.yml
+  - _config.build.yml
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -279,6 +283,7 @@ defaults:
 
 sass:
   style: compressed
+  silence_deprecations: [import, global-builtin, color-functions]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -312,8 +317,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wu]
+  first_name: [Meiliu, M.]
 
   style: apa
   locale: en

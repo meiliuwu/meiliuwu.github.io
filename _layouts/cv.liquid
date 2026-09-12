@@ -12,6 +12,8 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            aria-label="Download September 2026 CV as PDF"
+            title="Download September 2026 CV as PDF"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
         {% endif %}
@@ -58,6 +60,8 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            aria-label="Download September 2026 CV as PDF"
+            title="Download September 2026 CV as PDF"
             ><i class="fa-solid fa-file-pdf"></i
           ></a>
         {% endif %}
@@ -78,7 +82,20 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+            <h3 class="card-title font-weight-medium">
+              {% case data[0] -%}
+                {%- when 'basics' -%}
+                  Profile
+                {%- when 'work' -%}
+                  Experience
+                {%- when 'projects' -%}
+                  Funding, teaching and talks
+                {%- when 'volunteer' -%}
+                  Service and engagement
+                {%- else -%}
+                  {{- data[0] | capitalize -}}
+              {%- endcase %}
+            </h3>
             <div>
               {% case data[0] %}
                 {% when 'basics' %}
