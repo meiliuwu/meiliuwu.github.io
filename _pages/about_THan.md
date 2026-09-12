@@ -1,5 +1,5 @@
-<a href='https://ting-devin-han.github.io/Homepage-main/'>**Ting Han (Exchange PhD student)** (link to profile)</a>
+### [Ting Han](https://ting-devin-han.github.io/Homepage-main/)
 
-I am a joint Ph.D. student in Geospatial Artificial Intelligence at School of Geographical and Earth Sciences, University of Glasgow. I am currently a third year Ph.D. student in School of Geospatial Engineering and Science, Sun Yat-Sen University, majoring in Cartography and Geographic Information System.
+**Former visiting PhD student · Sun Yat-sen University · October 2025–April 2026**
 
-My research interests focus on **advancing geospatial artificial intelligence by integrating deep learning theories and methods into 3D point cloud processing for remote sensing applications**. I aim to develop interpretable and generalizable AI models that can effectively analyze urban morphology, vegetation structure, and built environments from multi-source geospatial data. My work emphasizes the synergy of spatial cognition and data-driven intelligence, promoting sustainable development through urban analytics, environmental monitoring, and human-centered geoinformation services. I am particularly interested in how multi-modal learning and foundation models can enhance geospatial understanding in both local and global scales. 
+Ting’s visit focused on **Towards a New Era of Geo-Foundation Models**. His research integrates deep learning with 3D point cloud processing, multimodal alignment and geospatial context awareness for remote sensing and urban analytics.
