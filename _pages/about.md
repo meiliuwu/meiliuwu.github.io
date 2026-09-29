@@ -28,4 +28,6 @@ I am a Fellow of the Royal Geographical Society with IBG and serve as **Treasure
 
 I welcome enquiries about PhD study and collaboration in GeoAI, spatial data science and their applications. Please [email me](mailto:meiliu.wu@glasgow.ac.uk) to discuss research ideas or opportunities — I’m always happy to start a conversation over coffee.
 
+{% include figure.liquid path="assets/img/gifts-lab-logo.png" alt="GIFTS Lab logo" class="img-fluid rounded z-depth-1 w-50" %}
+
 {% include figure.liquid path="assets/img/wordcloud.png" alt="Research interests in geospatial data science and GeoAI" class="img-fluid rounded z-depth-1 w-50" %}
