@@ -2,9 +2,17 @@
 layout: page
 title: Parties
 description: Group gathering & meals
-img: assets/img/people/2026-welcome-bubble-tea.jpeg
+img: assets/img/projects/parties/261001_welcome_yueting_eleanor.jpg
 importance: 11
 category: fun
+---
+
+## Welcome, Yueting and Eleanor!
+
+On **1 October 2026**, I hosted a welcome party at home for our new PhD students **Yueting and Eleanor**. **Fengjiao and Ayush** joined us for seafood hotpot and mooncakes, and we enjoyed a lovely evening sharing food and catching up.
+
+{% include figure.liquid path="assets/img/projects/parties/261001_welcome_yueting_eleanor.jpg" alt="Five GIFTS Lab members at a welcome party for new PhD students Yueting and Eleanor" caption="Seafood hotpot and mooncakes at home, 1 October 2026." class="img-fluid rounded z-depth-1" %}
+
 ---
 
 ## Welcome, Eleanor and Haiyu!
