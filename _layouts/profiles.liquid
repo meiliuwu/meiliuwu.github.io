@@ -10,13 +10,30 @@ layout: page
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% assign profile_image_alt = profile.image_alt | default: profile.image %}
             {% if profile.image_circular %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
             {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+            {% if profile.image_crop %}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="{{ profile.image_crop.x }} {{ profile.image_crop.y }} {{ profile.image_crop.width }} {{ profile.image_crop.height }}"
+                width="{{ profile.image_crop.width }}"
+                height="{{ profile.image_crop.height }}"
+                class="{{ profile_image_class }}"
+                style="width: 100%; overflow: hidden; margin-bottom: 1rem;"
+                role="img"
+                aria-labelledby="profile-portrait-title-{{ forloop.index }}"
+              >
+                <title id="profile-portrait-title-{{ forloop.index }}">{{ profile_image_alt | escape }}</title>
+                <image href="{{ profile_image_path | relative_url }}" width="{{ profile.image_crop.source_width }}" height="{{ profile.image_crop.source_height }}" />
+              </svg>
+            {% else %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_image_alt %}
+            {% endif %}
           {% endif %}
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>

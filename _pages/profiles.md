@@ -9,8 +9,7 @@ nav_order: 1
 incoming: |
   ## Incoming students
 
-  - **Mengkun Song** — joining in October 2026; first supervisor: Meiliu Wu. Spatiotemporal Evolution of Streetscape Perception in Global Cities: A GeoAI Approach Using Multimodal Large Language Models.
-  - **Zeyu Xiao** — joining in January 2027; first supervisor: Meiliu Wu. Leveraging Spatially Explicit Graphs, Digital Twinning, and BIM to Enhance Perception, Localisation, and Navigation.
+  - **Zeyu Xiao** — spatially explicit graphs, digital twinning and BIM for perception, localisation and navigation.
 
 profiles:
   - align: right
@@ -19,46 +18,68 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - content: about_YTWang.md
-  - content: about_EDownie.md
+  - align: left
+    image: news/2610_mengkun/welcome-celinos.jpg
+    image_alt: Portrait of Mengkun Song
+    image_crop:
+      x: 350
+      y: 235
+      width: 320
+      height: 390
+      source_width: 1800
+      source_height: 1012
+    content: about_MSong.md
+
+  - align: right
+    image: prof_pic_yuetingwang.png
+    image_alt: Portrait of Yueting Wang
+    content: about_YTWang.md
 
   - align: left
+    image: prof_pic_eleanordownie.png
+    image_alt: Portrait of Eleanor Downie
+    content: about_EDownie.md
+
+  - align: right
     image: prof_pic_fengjiaoli.png
     content: about_FLi.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right
+  - align: left
     image: prof_pic_shunyuyao.jpeg
     content: about_SYao.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: left
+  - align: right
     image: prof_pic_ayushdabra.jpeg
     content: about_Ayush.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right
+  - align: left
     image: prof_pic_zhimenghe.jpeg
     content: about_ZHe.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: left
+  - align: right
     image: prof_pic_yuweicai.jpg
     content: about_YCai.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - align: right
+  - align: left
     image: prof_pic_yuchenwang.jpg
     content: about_YWang.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
-  - content: about_HZhang.md
+  - align: right
+    image: prof_pic_haiyuzhang.png
+    image_alt: Portrait of Haiyu Zhang
+    content: about_HZhang.md
 
   - align: left
     image: prof_pic_tinghan.jpg
