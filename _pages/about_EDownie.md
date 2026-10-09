@@ -1,5 +1,5 @@
-### Eleanor Downie
+### Eleanor Downie (PhD student)
 
-**PhD student · Joined 1 September 2026 · First supervisor: Meiliu Wu**
+My doctoral research focuses on **using geospatial AI to map invasive plants and track their spread on reclaimed land**, including former mining and industrial sites. I plan to combine AlphaEarth satellite embeddings with species records, climate data and reclamation histories to investigate where invasive plants establish and how their distribution changes over time.
 
-Eleanor’s research focuses on **AI-driven satellite embeddings for fine-resolution mapping and tracking invasive species on global reclaimed lands**. We are excited to welcome her to GIFTS Lab!
+I will explore methods that learn from limited labelled data, test how reliably models transfer between regions, and use GPU computing to support analysis at larger scales. By quantifying uncertainty alongside predictions, I aim to develop mapping and early-warning tools that help protect biodiversity and guide restoration and invasive-species management.
