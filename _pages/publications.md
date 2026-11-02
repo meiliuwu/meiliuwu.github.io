@@ -42,4 +42,3 @@ These manuscripts are under review or revision and are not yet accepted publicat
 - Shingleton J., Bıçakçı Y.S., Wu M., Wang Y., Basiri A., 2026. Evaluating Explanation Integrity in a Vision Language Model for Urban Perception. Transactions in GIS. (Under revision)
 
 - Yang S., Liu H., Wang X., Wu M., Zhang Z., Yang Z., Huang Q., 2026. A Cyber-agricultural System for Automating Near Real-time Crop Yield Prediction and Dissemination. Computers and Electronics in Agriculture. (Under revision)
-
