@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching, programme leadership and research supervision · Updated September 2026
+description: Teaching, programme leadership and research supervision · Updated November 2026
 nav: true
 nav_order: 4
 ---
@@ -11,24 +11,24 @@ nav_order: 4
 
 **Program Director & Lecturer, School of Geographical & Earth Sciences**
 
-- Program Director: designing a new MSc program in Geospatial Data Science & AI (starting in autumn 2026), including courses in Intro to GeoAI and Big GeoData Analytics;
-- [Planned] Introduction to Geospatial AI, spring 2027 (In-person; 50 graduates);
+- Program Director: MSc in Geospatial Data Science & AI (18 graduates, 2026–27);
+- [Planned] GEOG5137 Introduction to Geospatial AI, spring 2027 (In-person; 30 graduates);
 - GEOG5015 Web and Mobile Mapping, spring 2026 (In-person; 30 graduates);
-- GEOG5018 Principles of Cartographic Design & Production, autumn 2024 (In-person; 40 graduates); autumn 2025 (In-person; 30 graduates);
+- GEOG5018 Principles of Cartographic Design & Production, autumn 2026 (In-person; 30 graduates); autumn 2025 (In-person; 30 graduates); autumn 2024 (In-person; 40 graduates);
 
 ### PhDs Supervisor
 
-- Zeyu Xiao (incoming PhD student in Jan 2027, first supervisor). Leveraging Spatially Explicit Graphs, Digital Twinning, and BIM to Enhance Perception, Localisation, and Navigation.
-- Mengkun Song (incoming PhD student in Oct 2026, first supervisor). Spatiotemporal Evolution of Streetscape Perception in Global Cities: A GeoAI Approach Using Multimodal Large Language Models.
-- Yueting Wang (PhD student in Sep 2026, first supervisor). Beyond AlphaEarth Foundations: Fine-resolution Mapping and Tracking Global Coastal Vegetated Ecosystem Change.
-- Eleanor Downie (PhD student from 1 September 2026, first supervisor). AI-Driven Satellite Embeddings for Fine-resolution Mapping and Tracking Invasive Species on Global Reclaimed Lands.
-- Shunyu Yao (PhD student, first supervisor). Towards Ethical GeoAI: Enhancing Fairness, Privacy, and Interpretability from A Data Perspective. 2025/10 – present.
-- Fengjiao Li (PhD student, first supervisor). Towards GeoAI-Enhanced Mobility-Based Health Risk Analysis: Embedding Geospatial Intelligence into Graph Neural Networks for Dynamic Population Modelling. 2025/05 – present.
+- Zeyu Xiao (incoming PhD student in Jan 2027). Leveraging Spatially Explicit Graphs, Digital Twinning, and BIM to Enhance Perception, Localisation, and Navigation.
+- Mengkun Song (PhD student). Spatiotemporal Evolution of Streetscape Perception in Global Cities: A GeoAI Approach Using Multimodal Large Language Models. 2026/10 – present.
+- Yueting Wang (PhD student). Beyond AlphaEarth Foundations: Fine-resolution Mapping and Tracking Global Coastal Vegetated Ecosystem Change. 2026/10 – present.
+- Eleanor Downie (PhD student). AI-Driven Satellite Embeddings for Fine-resolution Mapping and Tracking Invasive Species on Global Reclaimed Lands. 2026/09 – present.
+- Shunyu Yao (PhD student). Towards Ethical GeoAI: Enhancing Fairness, Privacy, and Interpretability from A Data Perspective. 2025/10 – present.
+- Fengjiao Li (PhD student). Towards GeoAI-Enhanced Mobility-Based Health Risk Analysis: Embedding Geospatial Intelligence into Graph Neural Networks for Dynamic Population Modelling. 2025/05 – present.
 - Ayush Dabra (PhD student, secondary supervisor). The Dynamics of Cities – Enabling Minority Representation in Urban Environments. 2025/01 – present.
 - Yuwei Cai (PhD student, secondary supervisor). Super-resolution for Building Datasets Using Deep Learning Methods. 2024/08 – present.
 - Zhimeng He (PhD student, secondary supervisor). Advancing Deep Learning Architectures for Urban Data Analysis in 2D and 3D. 2024/09 – present.
-- Yuchen Wang (PhD student, secondary supervisor). Sediment Transport of Made Ground along Scottish Sites. 2024/10 – Present.
-- Haiyu Zhang (visiting PhD student). Six-month visit starting 16 August 2026.
+- Yuchen Wang (PhD student, secondary supervisor). Sediment Transport of Made Ground along Scottish Sites. 2024/10 – present.
+- Haiyu Zhang (visiting PhD student, Tianjin Normal University). 2026/08 – 2027/02.
 - Han Ting (Former visiting PhD student, Sun Yat-sen University) Towards a new era of Geo-Foundation Models. 2025/10 – 2026/04.
 - Shiqi Wang (Former external PhD student, Hong Kong University of Science and Technology - Guangzhou). Measuring Spatial Bias & Exploring Spatial Heterogeneity Understanding of AI for Urban Perception. 2024/10 – 2025/10.
 

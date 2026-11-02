@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal articles, conference papers and book chapters · Updated September 2026
+description: Journal articles, conference papers and book chapters · Updated November 2026
 nav: true
 nav_order: 3
 ---
@@ -29,6 +29,8 @@ nav_order: 3
 
 These manuscripts are under review or revision and are not yet accepted publications.
 
+- Li F., Li L., Wu M., Sinclair M., 2025. Enhancing Literature Screening via Graph Modelling: A Novel Method with Semantic Analysis and Relational Learning. Scientific Reports. (Under revision)
+
 - He Z., Cai Y., Han T., Wu M., Barrett B., 2026. Cube Kernel: Enabling Local Gradient Flow Across Channels in CNNs for Robust and Efficient Building Segmentation. ISPRS Journal of Photogrammetry and Remote Sensing. (Under revision)
 
 - Cai Y., He Z., Wu M., Barrett B., 2026. RNFI, RNSI and ISPS: A Novel Task-Oriented Evaluation System for Super-Resolution of Remote Sensing Imagery. European Journal of Remote Sensing. (Under revision)
@@ -41,4 +43,3 @@ These manuscripts are under review or revision and are not yet accepted publicat
 
 - Yang S., Liu H., Wang X., Wu M., Zhang Z., Yang Z., Huang Q., 2026. A Cyber-agricultural System for Automating Near Real-time Crop Yield Prediction and Dissemination. Computers and Electronics in Agriculture. (Under revision)
 
-- Couraud B., et al., 2026. Frameworks for Fair Cyber-Physical Social Energy Systems and Energy Markets. Nature Communications, Collection on Justice and Equality in Decarbonization. (Under minor revision)

@@ -4,7 +4,7 @@
     "label": "Lecturer/Assistant Professor in Geospatial Information Science",
     "email": "meiliu.wu@glasgow.ac.uk",
     "url": "https://www.gla.ac.uk/schools/ges/staff/meiliuwu/",
-    "summary": "Director of the MSc in Geospatial Data Science & AI and leader of GIFTS Lab, University of Glasgow. Updated September 2026."
+    "summary": "Director of the MSc in Geospatial Data Science & AI and leader of GIFTS Lab, University of Glasgow. Updated November 2026."
   },
   "work": [
     {
@@ -50,7 +50,9 @@
       "area": "Geography",
       "startDate": "2021-01",
       "endDate": "2024-05",
-      "courses": ["Minor in Computer Science"]
+      "courses": [
+        "Minor in Computer Science"
+      ]
     },
     {
       "institution": "University of Wisconsin–Madison",
@@ -66,7 +68,9 @@
       "area": "GIS and Remote Sensing",
       "startDate": "2013-08",
       "endDate": "2017-08",
-      "courses": ["High Degree Honors in Geography & STEM Research"]
+      "courses": [
+        "High Degree Honors in Geography & STEM Research"
+      ]
     },
     {
       "institution": "Sun Yat-sen University",
@@ -74,7 +78,9 @@
       "area": "GIS and Remote Sensing",
       "startDate": "2013-08",
       "endDate": "2017-08",
-      "courses": ["2+2 undergraduate programme with the University of Cincinnati"]
+      "courses": [
+        "2+2 undergraduate programme with the University of Cincinnati"
+      ]
     },
     {
       "institution": "Queensland University of Technology",
@@ -135,17 +141,18 @@
       "url": "/teaching/",
       "summary": "Full course history and student research topics are on the teaching page.",
       "highlights": [
-        "MSc Geospatial Data Science & AI: programme director; starts autumn 2026.",
-        "Web and Mobile Mapping (spring 2026); Principles of Cartographic Design & Production (autumn 2024 and 2025).",
-        "Introduction to Geospatial AI planned for spring 2027.",
+        "MSc Geospatial Data Science & AI: programme director; 18 postgraduate students in the 2026–27 cohort.",
+        "GEOG5137 Introduction to Geospatial AI, spring 2027 (scheduled; 30 postgraduate students).",
+        "GEOG5015 Web and Mobile Mapping, spring 2026 (30 postgraduate students); GEOG5018 Principles of Cartographic Design & Production, autumn 2026 and 2025 (30 each), and autumn 2024 (40).",
         "Eight Master’s students supervised in 2026; nine in 2025, including one dissertation award nomination.",
-        "New PhD students: Eleanor Downie and Yueting Wang (September 2026). Visiting PhD student: Haiyu Zhang (six-month visit from 16 August 2026).",
-        "Incoming PhD students: Mengkun Song (October 2026) and Zeyu Xiao (January 2027)."
+        "Current PhD students include Mengkun Song and Yueting Wang (October 2026) and Eleanor Downie (September 2026). Haiyu Zhang is a visiting PhD student from Tianjin Normal University, August 2026–February 2027.",
+        "Incoming PhD student: Zeyu Xiao (January 2027)."
       ]
     },
     {
       "name": "Invited talks",
       "highlights": [
+        "“Enhancing Earth, Environmental, and Sustainability Studies with Geospatial Foundation Models”, Introduction to Earth, Environmental, and Sustainability Studies seminar, UKRI NERC ExaGEO; University of Glasgow, University of Edinburgh, Lancaster University, EPCC and CEEDS. (8 October 2026)",
         "“Teaching GeoAI to Know Its SPLACE: Spatially explicit multimodal learning + PLACES evaluation,” Workshop on GeoAI for Autonomous Spatial Analysis, Department of Geographical Sciences, University of Maryland, College Park. (14-15 Jun, 2026) ",
         "“Geo-Foundation Models: Multimodality, Spatial-Explicitness, and Explainability,” Department of Geography, University of Wisconsin-Madison. (Nov 7, 2025) ",
         "“Enhancing AI’s Geospatial Intelligence: Multimodality, Spatial-Explicitness, and Explainability,” School of Geography, University of Leeds. (Oct 23, 2025) ",
@@ -218,7 +225,11 @@
   "volunteer": [
     {
       "position": "Executive Committee",
-      "highlights": ["GIScience Research Group (GIScRG), RGS-IBG, UK", "Treasurer, 2026-present", "Website and Social Media Manager, 2025-2026"]
+      "highlights": [
+        "GIScience Research Group (GIScRG), RGS-IBG, UK",
+        "Treasurer, 2026-present",
+        "Website and Social Media Manager, 2025-2026"
+      ]
     },
     {
       "position": "Guest Editor",
@@ -229,7 +240,9 @@
     },
     {
       "position": "Grant/Fellowship Reviewer/Panellist",
-      "highlights": ["Glasgow Changing Futures Collaborative Seed Fund Open Call on Sustainable Futures"]
+      "highlights": [
+        "Glasgow Changing Futures Collaborative Seed Fund Open Call on Sustainable Futures"
+      ]
     },
     {
       "position": "Conference Program Committee",
@@ -262,8 +275,11 @@
       ]
     },
     {
-      "position": "Presentation Judge",
-      "highlights": ["Outstanding Student Presentation Awards (OSPA) program, AGU Fall Meeting, 2022"]
+      "position": "Presentation Judge/Reviewer",
+      "highlights": [
+        "2027 AAG John Odland Award student paper competition, AAG Spatial Analysis and Modeling (SAM) Specialty Group (upcoming).",
+        "Outstanding Student Presentation Awards (OSPA) program, AGU Fall Meeting, 2022"
+      ]
     },
     {
       "position": "External Examiner",
@@ -274,6 +290,7 @@
     {
       "position": "Manuscript Reviewer",
       "highlights": [
+        "npj Urban Sustainability, 2026-present",
         "Computers, Environment and Urban Systems, 2023-present",
         "ISPRS Journal of Photogrammetry and Remote Sensing (P&RS), 2025-present",
         "International Journal of Geographical Information Science (IJGIS), 2023-present",
@@ -286,33 +303,45 @@
     },
     {
       "position": "Glasgow Science Festival",
-      "highlights": ["Global City Challenge - Image Geo-localisation Competition with AI, 2026"]
+      "highlights": [
+        "Global City Challenge - Image Geo-localisation Competition with AI, 2026"
+      ]
     },
     {
       "position": "Student Director",
-      "highlights": ["AAG Cyber-Infrastructure Specialty Group (CISG), 2023-2024"]
+      "highlights": [
+        "AAG Cyber-Infrastructure Specialty Group (CISG), 2023-2024"
+      ]
     },
     {
       "position": "MSc Program Director (2024-present)",
       "highlights": [
-        "MSc in Geospatial Data Science & AI, designing program documentation and new courses (e.g., Introduction to Geospatial AI and Big Geo-Data Analysis)."
+        "MSc in Geospatial Data Science & AI, including programme documentation and new courses such as Introduction to Geospatial AI and Big Geo-Data Analysis; 18 postgraduate students in 2026–27."
       ]
     },
     {
       "position": "Publicity and Recruitment Working Group (2026-present)",
-      "highlights": ["Academic staff member, serving 50 hrs/year to facilitate student recruitment."]
+      "highlights": [
+        "Academic staff member, serving 50 hrs/year to facilitate student recruitment."
+      ]
     },
     {
       "position": "PhD Viva Convenor",
-      "highlights": ["Freya Margaret Ella Muir, “Real-time Monitoring and Modelling of Coastal Change”, 2025"]
+      "highlights": [
+        "Freya Margaret Ella Muir, “Real-time Monitoring and Modelling of Coastal Change”, 2025"
+      ]
     },
     {
       "position": "Graduate Representatives to Faculty/Staff Meetings",
-      "highlights": ["Department of Geography, UW-Madison, 2022-2024"]
+      "highlights": [
+        "Department of Geography, UW-Madison, 2022-2024"
+      ]
     },
     {
       "position": "Student Lead of Graduates Social Committee",
-      "highlights": ["Department of Geography, UW-Madison, 2017-2019"]
+      "highlights": [
+        "Department of Geography, UW-Madison, 2017-2019"
+      ]
     },
     {
       "position": "Professional memberships",
@@ -328,6 +357,27 @@
     }
   ],
   "publications": [
+    {
+      "name": "A Framework for Assessing Distributive Justice and Fairness in Energy Systems",
+      "publisher": "Nature Communications",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted; publication details forthcoming."
+    },
+    {
+      "name": "HydroMind: A GeoAI Agent Framework for Open Geospatial Flood Risk Assessment",
+      "publisher": "1st ACM SIGSPATIAL Student Challenge on Open Agents with Spatial Intelligence for Social Good (OASIS 2026)",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted; proceedings forthcoming. DOI: 10.1145/3849739.3856758."
+    },
+    {
+      "name": "A Human-in-the-Loop GeoAI Agent for Uncertainty-Aware and Equitable Siting in Public Health Services",
+      "publisher": "1st ACM SIGSPATIAL Student Challenge on Open Agents with Spatial Intelligence for Social Good (OASIS 2026)",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted; proceedings forthcoming. DOI: 10.1145/3849739.3856757."
+    },
     {
       "name": "An Integrated Web-Based Cyber Platform for County-Level Crop Yield Prediction Using Deep Learning in Support of USDA NASS",
       "publisher": "IGARSS 2026",
