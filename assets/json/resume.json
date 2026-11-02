@@ -50,9 +50,7 @@
       "area": "Geography",
       "startDate": "2021-01",
       "endDate": "2024-05",
-      "courses": [
-        "Minor in Computer Science"
-      ]
+      "courses": ["Minor in Computer Science"]
     },
     {
       "institution": "University of Wisconsin–Madison",
@@ -68,9 +66,7 @@
       "area": "GIS and Remote Sensing",
       "startDate": "2013-08",
       "endDate": "2017-08",
-      "courses": [
-        "High Degree Honors in Geography & STEM Research"
-      ]
+      "courses": ["High Degree Honors in Geography & STEM Research"]
     },
     {
       "institution": "Sun Yat-sen University",
@@ -78,9 +74,7 @@
       "area": "GIS and Remote Sensing",
       "startDate": "2013-08",
       "endDate": "2017-08",
-      "courses": [
-        "2+2 undergraduate programme with the University of Cincinnati"
-      ]
+      "courses": ["2+2 undergraduate programme with the University of Cincinnati"]
     },
     {
       "institution": "Queensland University of Technology",
@@ -225,11 +219,7 @@
   "volunteer": [
     {
       "position": "Executive Committee",
-      "highlights": [
-        "GIScience Research Group (GIScRG), RGS-IBG, UK",
-        "Treasurer, 2026-present",
-        "Website and Social Media Manager, 2025-2026"
-      ]
+      "highlights": ["GIScience Research Group (GIScRG), RGS-IBG, UK", "Treasurer, 2026-present", "Website and Social Media Manager, 2025-2026"]
     },
     {
       "position": "Guest Editor",
@@ -240,9 +230,7 @@
     },
     {
       "position": "Grant/Fellowship Reviewer/Panellist",
-      "highlights": [
-        "Glasgow Changing Futures Collaborative Seed Fund Open Call on Sustainable Futures"
-      ]
+      "highlights": ["Glasgow Changing Futures Collaborative Seed Fund Open Call on Sustainable Futures"]
     },
     {
       "position": "Conference Program Committee",
@@ -303,15 +291,11 @@
     },
     {
       "position": "Glasgow Science Festival",
-      "highlights": [
-        "Global City Challenge - Image Geo-localisation Competition with AI, 2026"
-      ]
+      "highlights": ["Global City Challenge - Image Geo-localisation Competition with AI, 2026"]
     },
     {
       "position": "Student Director",
-      "highlights": [
-        "AAG Cyber-Infrastructure Specialty Group (CISG), 2023-2024"
-      ]
+      "highlights": ["AAG Cyber-Infrastructure Specialty Group (CISG), 2023-2024"]
     },
     {
       "position": "MSc Program Director (2024-present)",
@@ -321,27 +305,19 @@
     },
     {
       "position": "Publicity and Recruitment Working Group (2026-present)",
-      "highlights": [
-        "Academic staff member, serving 50 hrs/year to facilitate student recruitment."
-      ]
+      "highlights": ["Academic staff member, serving 50 hrs/year to facilitate student recruitment."]
     },
     {
       "position": "PhD Viva Convenor",
-      "highlights": [
-        "Freya Margaret Ella Muir, “Real-time Monitoring and Modelling of Coastal Change”, 2025"
-      ]
+      "highlights": ["Freya Margaret Ella Muir, “Real-time Monitoring and Modelling of Coastal Change”, 2025"]
     },
     {
       "position": "Graduate Representatives to Faculty/Staff Meetings",
-      "highlights": [
-        "Department of Geography, UW-Madison, 2022-2024"
-      ]
+      "highlights": ["Department of Geography, UW-Madison, 2022-2024"]
     },
     {
       "position": "Student Lead of Graduates Social Committee",
-      "highlights": [
-        "Department of Geography, UW-Madison, 2017-2019"
-      ]
+      "highlights": ["Department of Geography, UW-Madison, 2017-2019"]
     },
     {
       "position": "Professional memberships",
