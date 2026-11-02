@@ -34,9 +34,9 @@ Of course, a wonderful group meal followed the rehearsal—a lovely way to celeb
 
 <div class="row">
   <div class="col-12 col-sm-6">
-    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/presentation-rehearsal.jpg" alt="GIFTS Lab team rehearsing an OASIS 2026 presentation around a meeting-room table" caption="Rehearsing our two accepted OASIS 2026 papers, 28 October 2026." class="img-fluid rounded z-depth-1" zoomable=true cache_bust=true %}
+    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/presentation-rehearsal-high-resolution.jpg" alt="GIFTS Lab team rehearsing an OASIS 2026 presentation around a meeting-room table" caption="Rehearsing our two accepted OASIS 2026 papers, 28 October 2026." class="img-fluid rounded z-depth-1" zoomable=true cache_bust=true %}
   </div>
   <div class="col-12 col-sm-6">
-    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/group-meal.jpg" alt="GIFTS Lab team enjoying a group meal together after the presentation rehearsal" caption="A wonderful group meal after the rehearsal." class="img-fluid rounded z-depth-1" zoomable=true cache_bust=true %}
+    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/group-meal-high-resolution.jpg" alt="GIFTS Lab team enjoying a group meal together after the presentation rehearsal" caption="A wonderful group meal after the rehearsal." class="img-fluid rounded z-depth-1" zoomable=true cache_bust=true %}
   </div>
 </div>
