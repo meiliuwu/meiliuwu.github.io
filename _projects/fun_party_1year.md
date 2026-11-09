@@ -7,6 +7,25 @@ importance: 11
 category: fun
 ---
 
+## Birthday celebrations with the team
+
+On **Saturday, 7 November 2026**, I celebrated my birthday with the team. We created and shared so many happy moments together! Thank you to everyone who made the day so special. I’m grateful for the laughter, warmth and lovely memories.
+
+{% include figure.liquid path="assets/img/projects/parties/261107_birthday_team.jpg" alt="A group selfie around the table at the birthday celebration" caption="Birthday celebrations with the team, 7 November 2026." class="img-fluid rounded z-depth-1" zoomable=true %}
+
+A special thank-you to **Haiyu** for the **homemade matcha scones** she made as a birthday gift. It was her **first time baking**!
+
+<div class="row align-items-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/parties/261107_birthday_flowers.jpg" alt="Holding homemade matcha scones baked by Haiyu as a birthday gift, beside a bouquet of flowers" caption="Holding Haiyu’s homemade matcha scones. Her first time baking, and such a thoughtful birthday gift!" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/parties/261107_birthday_selfie.jpg" alt="A smiling selfie during the birthday celebrations" caption="More happy moments shared together." class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+---
+
 ## Welcome, Yueting and Eleanor!
 
 On **1 October 2026**, I hosted a welcome party at home for our new PhD students **Yueting and Eleanor**. **Fengjiao and Ayush** joined us for seafood hotpot and mooncakes, and we enjoyed a lovely evening sharing food and catching up.
