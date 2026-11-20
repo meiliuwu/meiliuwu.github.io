@@ -18,10 +18,10 @@ Yueting and Eleanor also attended talks in the main conference’s **Research an
 
 <div class="row">
   <div class="col-12 col-sm-6">
-    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/oasis-finalists.png" alt="Yueting and Eleanor holding a certificate beside the OASIS 2026 screen" caption="Yueting and Eleanor at OASIS 2026, with HydroMind among the ten finalists." width="415" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/oasis-finalists.webp" zoom_path="assets/img/news/2610_oasis_rehearsal/oasis-finalists-full.webp" alt="Yueting and Eleanor holding a certificate beside the OASIS 2026 screen" caption="Yueting and Eleanor at OASIS 2026, with HydroMind among the ten finalists." class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
   <div class="col-12 col-sm-6">
-    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/sigspatial-riverside.png" alt="Conference photo beside the ACM SIGSPATIAL 2026 banner in Riverside" caption="Their first ACM SIGSPATIAL conference as PhD students, in Riverside." width="403" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/news/2610_oasis_rehearsal/sigspatial-riverside.webp" zoom_path="assets/img/news/2610_oasis_rehearsal/sigspatial-riverside-full.webp" alt="Conference photo beside the ACM SIGSPATIAL 2026 banner in Riverside" caption="Their first ACM SIGSPATIAL conference as PhD students, in Riverside." class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
