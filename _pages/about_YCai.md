@@ -1,4 +1,4 @@
-<a href='https://www.gla.ac.uk/pgrs/yuweicai/'>**Yuwei (Vivi) Cai (PhD student)** (link to profile)</a>
+### [Yuwei (Vivi) Cai (PhD student)](https://www.gla.ac.uk/pgrs/yuweicai/)
 
 My research lies at the intersection of **remote sensing and deep learning**, with a particular focus on developing **super-resolution (SR)** techniques for Earth observation imagery. I am interested in both improving image quality through SR and understanding its impact on downstream geospatial applications such as building footprint extraction and land cover detection.
  

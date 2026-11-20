@@ -1,4 +1,4 @@
-**Shunyu Yao (PhD student)**
+### Shunyu Yao (PhD student)
 
 I am a PhD student researching at Geospatial Artificial Intelligence (GeoAI), with a BS and an MS in human geography. Specifically, my research focuses on Ethical GeoAI, particularly enhancing fairness, privacy, and interpretability from a data perspective. 
  

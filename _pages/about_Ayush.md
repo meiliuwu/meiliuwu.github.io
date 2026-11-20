@@ -1,4 +1,4 @@
-<a href='https://www.linkedin.com/in/ayushdabra/?originalSubdomain=uk'>**Ayush Dabra (PhD student)** (link to profile)</a>
+### [Ayush Dabra (PhD student)](https://www.linkedin.com/in/ayushdabra/?originalSubdomain=uk)
 
 I am a PhD student in the Geospatial Data Science Group at the University of Glasgow. My research focuses on developing multimodal generative AI models for understanding urban spaces. 
 

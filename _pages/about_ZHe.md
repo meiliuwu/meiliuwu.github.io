@@ -1,5 +1,5 @@
-<a href='https://www.gla.ac.uk/pgrs/zhimenghe/'>**Zhimeng He (PhD student)** (link to profile)</a>
+### [Zhimeng He (PhD student)](https://www.gla.ac.uk/pgrs/zhimenghe/)
 
 I am a PhD student at the School of Geographical & Earth Sciences, University of Glasgow, funded by the China Scholarship Council (CSC). My research primarily focuses on **developing advanced deep learning architectures to enhance the extraction of building rooftops** from high-resolution orthophotos. I am particularly interested in integrating Transformer architectures, involution, and E-Unet to address the challenge of extracting precise building contours in complex urban environments. 
 
-In addition to 2D image-based rooftop extraction, I also work on **3D point cloud classification and refinement for urban scene understanding**. My current research involves experimenting with these novel models to improve the accuracy and geometric fidelity of building footprint extraction, particularly on large-scale datasets such as the Waterloo Building Dataset and the WHU Massachusetts Buildings Dataset. 
+In addition to 2D image-based rooftop extraction, I also work on **3D point cloud classification and refinement for urban scene understanding**. My current research involves experimenting with these novel models to improve the accuracy and geometric fidelity of building footprint extraction, particularly on large-scale datasets such as the Waterloo Building Dataset and the WHU Massachusetts Buildings Dataset.
