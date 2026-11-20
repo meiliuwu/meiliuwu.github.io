@@ -4,7 +4,7 @@
     "label": "Lecturer/Assistant Professor in Geospatial Information Science",
     "email": "meiliu.wu@glasgow.ac.uk",
     "url": "https://www.gla.ac.uk/schools/ges/staff/meiliuwu/",
-    "summary": "Director of the MSc in Geospatial Data Science & AI and leader of GIFTS Lab, University of Glasgow. Updated November 2026."
+    "summary": "Director of the MSc in Geospatial Data Science & AI and leader of GIFTS Lab, University of Glasgow. Updated 19 November 2026."
   },
   "work": [
     {
@@ -137,7 +137,8 @@
       "highlights": [
         "MSc Geospatial Data Science & AI: programme director; 18 postgraduate students in the 2026–27 cohort.",
         "GEOG5137 Introduction to Geospatial AI, spring 2027 (scheduled; 30 postgraduate students).",
-        "GEOG5015 Web and Mobile Mapping, spring 2026 (30 postgraduate students); GEOG5018 Principles of Cartographic Design & Production, autumn 2026 and 2025 (30 each), and autumn 2024 (40).",
+        "GEOG5015 Web and Mobile Mapping, spring 2026 and scheduled for spring 2027 (30 postgraduate students each).",
+        "GEOG5018 Principles of Cartographic Design & Production, autumn 2026 and 2025 (30 each), and autumn 2024 (40).",
         "Eight Master’s students supervised in 2026; nine in 2025, including one dissertation award nomination.",
         "Current PhD students include Mengkun Song and Yueting Wang (October 2026) and Eleanor Downie (September 2026). Haiyu Zhang is a visiting PhD student from Tianjin Normal University, August 2026–February 2027.",
         "Incoming PhD student: Zeyu Xiao (January 2027)."
@@ -146,6 +147,8 @@
     {
       "name": "Invited talks",
       "highlights": [
+        "“From Industry to GeoAI Academia: My Journey as a Woman in GIS”, STEM Speaker Series at Branksome Hall STEM Council, Canada (online; 19 November 2026).",
+        "“Where Is the Geo in GeoAI?”, seminar talk at the University of Vienna, Austria (11 November 2026).",
         "“Enhancing Earth, Environmental, and Sustainability Studies with Geospatial Foundation Models”, Introduction to Earth, Environmental, and Sustainability Studies seminar, UKRI NERC ExaGEO; University of Glasgow, University of Edinburgh, Lancaster University, EPCC and CEEDS. (8 October 2026)",
         "“Teaching GeoAI to Know Its SPLACE: Spatially explicit multimodal learning + PLACES evaluation,” Workshop on GeoAI for Autonomous Spatial Analysis, Department of Geographical Sciences, University of Maryland, College Park. (14-15 Jun, 2026) ",
         "“Geo-Foundation Models: Multimodality, Spatial-Explicitness, and Explainability,” Department of Geography, University of Wisconsin-Madison. (Nov 7, 2025) ",
@@ -334,6 +337,20 @@
   ],
   "publications": [
     {
+      "name": "RNFI, RNSI and ISPS: A Novel Task-Oriented Evaluation System for Super-Resolution of Remote Sensing Imagery",
+      "publisher": "European Journal of Remote Sensing",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted; publication details forthcoming."
+    },
+    {
+      "name": "Evaluating Explanation Integrity in a Vision Language Model for Urban Perception",
+      "publisher": "Transactions in GIS",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted; publication details forthcoming."
+    },
+    {
       "name": "A Framework for Assessing Distributive Justice and Fairness in Energy Systems",
       "publisher": "Nature Communications",
       "releaseDate": "2026",
@@ -429,7 +446,7 @@
       "publisher": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
       "releaseDate": "2026",
       "url": "https://openaccess.thecvf.com/content/WACV2026/html/Chen_LiDAR-DHMT_LiDAR-Adaptive_Dual_Hierarchical_Mask_Transformer_for_Robust_Freespace_Detection_WACV_2026_paper.html",
-      "summary": ""
+      "summary": "DOI: 10.1109/WACV61042.2026.00128."
     },
     {
       "name": "MAPSRNet: a task-oriented super-resolution network that enhances building extraction beyond raw high-resolution imagery",

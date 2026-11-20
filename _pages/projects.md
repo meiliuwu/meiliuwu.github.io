@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects & fun
+title: Projects & Fun
 permalink: /projects/
 description: Research projects and time together in GIFTS Lab.
 nav: true

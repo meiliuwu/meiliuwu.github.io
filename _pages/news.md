@@ -1,6 +1,6 @@
 ---
 layout: page
-title: news
+title: News
 permalink: /news/
 description: Research, events and life in GIFTS Lab.
 nav: true

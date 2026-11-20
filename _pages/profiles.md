@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: GIFTS Lab (Geospatial Intelligence for Future Technology and Sustainability Lab) & members
 nav: true
 nav_order: 1
@@ -9,7 +9,9 @@ nav_order: 1
 incoming: |
   ## Incoming students
 
-  - **Zeyu Xiao** — spatially explicit graphs, digital twinning and BIM for perception, localisation and navigation.
+  ### Zeyu Xiao
+
+  Zeyu will begin a PhD in **January 2027**, studying spatially explicit graphs, digital twinning and BIM for perception, localisation and navigation.
 
 profiles:
   - align: right

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching, programme leadership and research supervision · Updated November 2026
 nav: true
 nav_order: 4
@@ -12,9 +12,9 @@ nav_order: 4
 **Program Director & Lecturer, School of Geographical & Earth Sciences**
 
 - Program Director: MSc in Geospatial Data Science & AI (18 graduates, 2026–27);
-- [Planned] GEOG5137 Introduction to Geospatial AI, spring 2027 (In-person; 30 graduates);
-- GEOG5015 Web and Mobile Mapping, spring 2026 (In-person; 30 graduates);
-- GEOG5018 Principles of Cartographic Design & Production, autumn 2026 (In-person; 30 graduates); autumn 2025 (In-person; 30 graduates); autumn 2024 (In-person; 40 graduates);
+- GEOG5137 Introduction to Geospatial AI, planned for spring 2027 (30 postgraduate students).
+- GEOG5015 Web and Mobile Mapping, spring 2026 and scheduled for spring 2027 (30 postgraduate students each).
+- GEOG5018 Principles of Cartographic Design & Production, autumn 2024 (40 postgraduate students), 2025 and 2026 (30 each).
 
 ### PhDs Supervisor
 

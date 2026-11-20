@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.gla.ac.uk/schools/ges/staff/meiliuwu/'>Lecturer/Assistant Professor in Geospatial Information Science</a> · Director of the MSc in <a href='https://www.gla.ac.uk/postgraduate/taught/geospatial-data-science-modelling/'>Geospatial Data Science & AI</a> · <a href='./people/'>GIFTS Lab</a> · University of Glasgow
 profile:
